@@ -436,11 +436,6 @@ hash = "79482771acb117d034118584d8931d750e67d8b1d9cefe8278759ef24a5522f6"
 metafile = true
 
 [[files]]
-file = "mods/neoorigins.pw.toml"
-hash = "6e2b7d374758615aa37a5f478d948b5db8920dd1c21837eee0fa25f9bd562072"
-metafile = true
-
-[[files]]
 file = "mods/origins-backgrounds-for-neoorigins.pw.toml"
 hash = "cd1ec8ae752652a39efe21e52e326609eb861f778af3cc3b8eb3d0e0c30ed27c"
 metafile = true
