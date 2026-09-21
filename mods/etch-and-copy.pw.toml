@@ -1,0 +1,13 @@
+name = "Etch and Copy"
+filename = "etch_and_copy-1.21.1-1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/T6hgVQLF/versions/E7VGQ9ot/etch_and_copy-1.21.1-1.0.jar"
+hash-format = "sha512"
+hash = "89593ccae8ad9691b024606153ef04247a1f903b77ae9482b8b01963d58e808f693455e552a85104f5a914fb9138bef22813d3696aa6e10429164a2d4a45cb14"
+
+[update]
+[update.modrinth]
+mod-id = "T6hgVQLF"
+version = "E7VGQ9ot"

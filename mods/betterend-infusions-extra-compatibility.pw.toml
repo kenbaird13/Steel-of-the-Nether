@@ -1,0 +1,13 @@
+name = "[BetterEnd] Infusions Extra Compatibility"
+filename = "betterend-infusions-extra-compatibility-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/wvD11Diw/versions/MwmNjqpe/betterend-infusions-extra-compatibility-1.0.0.jar"
+hash-format = "sha512"
+hash = "565820831c1ef0f622fa8b8866ee8810d3aea9964ecd3f5a37458414d5da35536b6ccaf75884d1a9b668a46dc0c2c5386e1dc5df0d7f49e8ff02b915477bf819"
+
+[update]
+[update.modrinth]
+mod-id = "wvD11Diw"
+version = "MwmNjqpe"
