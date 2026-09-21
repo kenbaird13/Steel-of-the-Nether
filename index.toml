@@ -1,6 +1,34 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/ars_nouveau-client.toml"
+hash = "2512b78c5b23d88aa3f43b09a2a07ce51a16e8d9b2cb435d0702947fe7f801cc"
+
+[[files]]
+file = "config/azurelib.json"
+hash = "0e16b69d8ff953294280e955969f24aa49d2dd19cbc8eeab166715a7dd969e43"
+
+[[files]]
+file = "config/ledger-server.properties"
+hash = "2ff7f6896d29d6991361f2891ae5932a9d75734440a48374aa2808741d51a68e"
+
+[[files]]
+file = "config/quark-common.toml"
+hash = "144bc14d6b83ca3ef1321bccb901449f9536996c1589e23f65ff5fcd93cc0a61"
+
+[[files]]
+file = "config/sodium-fingerprint.json"
+hash = "e1bdfee374880bac70869115eade06a205c10769e3638b84fcc2674c22de8e11"
+
+[[files]]
+file = "config/sophisticatedcore-common.toml"
+hash = "ed3e75e9408cea4a9b47b52ed4248f4d7517bb9eac6f3db36a93af6dacdcba84"
+
+[[files]]
+file = "config/waystones-common.toml"
+hash = "fd6b24ed653419000a78845d9471d71f7909f0e0db244b487bfbf7bd696597f2"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "b3b67f83faf9dcc4985b7a13fa8affb71062461d271f80cc0958652df9f3126b"
 metafile = true
@@ -8,6 +36,26 @@ metafile = true
 [[files]]
 file = "mods/aces-spell-utils.pw.toml"
 hash = "98ad272682eaa9ff39165f7290e7c3e6cde6042c2ae783f60984524122096588"
+metafile = true
+
+[[files]]
+file = "mods/apotheosis.pw.toml"
+hash = "56cda0db97df8abb2b7e907f4836eff30376654d84dc6b03352dee9cf94e081b"
+metafile = true
+
+[[files]]
+file = "mods/apothic-attributes.pw.toml"
+hash = "6d41410afc14800f59efe4ed0d085cd32b1b2a47d17dfe47382d7ac44c8c3e99"
+metafile = true
+
+[[files]]
+file = "mods/apothic-enchanting.pw.toml"
+hash = "953d08e4e58de5ce0e6ea9a5593747f5303206a5534a6acc87fad27b0dc673f8"
+metafile = true
+
+[[files]]
+file = "mods/apothic-spawners.pw.toml"
+hash = "e3cf8a1207e85580723e384bf59688be26b80373b49c1d64972528cdc0dcac6d"
 metafile = true
 
 [[files]]
@@ -336,8 +384,18 @@ hash = "66ebc57b6ea5e09a154e21ee6edd384fbbe3002872026bf8224eede15e458456"
 metafile = true
 
 [[files]]
+file = "mods/female-gender.pw.toml"
+hash = "882b7ef150e03885865ae89ff47e072058999f743d449ca96ed9a6f71d412c8d"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "73360e397134d238ee8fd21d33fd7f9275e9441f74f8f1b6ed92278877c0b9f1"
+metafile = true
+
+[[files]]
+file = "mods/figura.pw.toml"
+hash = "eedcb7fff4e1e6e1e9b81920521277596b0907b0de377f06dc306d2d6624c69d"
 metafile = true
 
 [[files]]
@@ -481,8 +539,18 @@ hash = "46831c04077a06df823bcd0f254833a90a9a9ccc78f5069f4b4c27fa301ac0cf"
 metafile = true
 
 [[files]]
+file = "mods/patchouli.pw.toml"
+hash = "d7f360ebb9f009d6dc0b368cd8fa399bdff70c0f6ef931687b2a35137f72715d"
+metafile = true
+
+[[files]]
 file = "mods/paxi.pw.toml"
 hash = "215d597764d5c5db89e700fc3495b72dc0a7f09c975de19dc8c580bde3469a5e"
+metafile = true
+
+[[files]]
+file = "mods/placebo.pw.toml"
+hash = "2f9f0f8c05ce7e410a70cfed595e623fe8031df89a8a9ba9a8aaaa419eb4d18b"
 metafile = true
 
 [[files]]
