@@ -31,6 +31,11 @@ hash = "8a857077b98b950607b66b0c4fec557f214190dd6657d5fc49cc3b8540126b5b"
 metafile = true
 
 [[files]]
+file = "mods/ars-numerichud.pw.toml"
+hash = "5d2eb89720ab0e767cd03b8cd943f08eb143996baf23dbc48ab75b0f02407ca2"
+metafile = true
+
+[[files]]
 file = "mods/athena-ctm.pw.toml"
 hash = "f54cf71372645810ce22b0ba68e706139565437150e4cfd22bde4c14606099c4"
 metafile = true
