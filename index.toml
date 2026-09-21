@@ -74,6 +74,11 @@ hash = "2dedbdaea212fc6b7327eb46b9d6ced3597aa0920ba1df19950a79ed408c5178"
 metafile = true
 
 [[files]]
+file = "mods/ars-n-spells.pw.toml"
+hash = "576312fbf8f678c4fc2e000fc34e0980e0ce5b63baf271d9f13e0ff4ded3fb4d"
+metafile = true
+
+[[files]]
 file = "mods/ars-nouveau.pw.toml"
 hash = "8a857077b98b950607b66b0c4fec557f214190dd6657d5fc49cc3b8540126b5b"
 metafile = true
@@ -496,6 +501,16 @@ metafile = true
 [[files]]
 file = "mods/neo-origins.pw.toml"
 hash = "79482771acb117d034118584d8931d750e67d8b1d9cefe8278759ef24a5522f6"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "5da18814472be5dc93a21886983646da3a7236413800075ac75229be82d114fa"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-restrictions.pw.toml"
+hash = "188500c93c2f057ae0053890e72e409e2c4ddaedfcb34bdfecb87b6299b5717d"
 metafile = true
 
 [[files]]
