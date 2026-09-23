@@ -9,6 +9,10 @@ file = "config/azurelib.json"
 hash = "0e16b69d8ff953294280e955969f24aa49d2dd19cbc8eeab166715a7dd969e43"
 
 [[files]]
+file = "config/ftbessentials.snbt"
+hash = "259cd5361d48c50426e848e19c98489f3d4cc5ba88397b40a03da2602c68860d"
+
+[[files]]
 file = "config/ledger-server.properties"
 hash = "2ff7f6896d29d6991361f2891ae5932a9d75734440a48374aa2808741d51a68e"
 
@@ -65,7 +69,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "187eafde5974beee1263538b462b7b8fe2fc8948c5d413980d9796d55928580b"
+hash = "657a01a86bbf8617e4726c77df08f708e43a3db12db74b837eebd8eb1d93faae"
 metafile = true
 
 [[files]]
@@ -401,6 +405,16 @@ metafile = true
 [[files]]
 file = "mods/figura.pw.toml"
 hash = "eedcb7fff4e1e6e1e9b81920521277596b0907b0de377f06dc306d2d6624c69d"
+metafile = true
+
+[[files]]
+file = "mods/ftb-essentials.pw.toml"
+hash = "6fa984dc1b5905ae909b417ed1cd92d6b536ba4832ed8c8d95aa9d424ad789df"
+metafile = true
+
+[[files]]
+file = "mods/ftb-library-forge.pw.toml"
+hash = "2e72d40c6d7b128981b19b71c19d45eb6813f1af87ae1abe1cf92adfa5e8223f"
 metafile = true
 
 [[files]]
