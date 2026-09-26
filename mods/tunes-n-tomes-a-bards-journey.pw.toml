@@ -1,0 +1,13 @@
+name = "Tunes n' Tomes: a bards journey"
+filename = "tunes_n_tomes-1.1.0-HOTFIX.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6cac45631ea63577f8eeeab454e1df0ce8f78386"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8370271
+project-id = 1509193
