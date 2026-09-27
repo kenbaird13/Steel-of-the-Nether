@@ -553,11 +553,6 @@ hash = "ebf0dae777cc19c354a662dc8144009dff7269b2d05624b4591fcb7de56fc14e"
 metafile = true
 
 [[files]]
-file = "mods/lithium.pw.toml"
-hash = "51e129832b04acd57da470fc41725bad5e101b6a6b1d4901fd8ea7a92b14e13d"
-metafile = true
-
-[[files]]
 file = "mods/lithostitched.pw.toml"
 hash = "0294264654da6777cfbbbd24ffa6dd1d082768fa7ae28b36b76f78261f53fce9"
 metafile = true
@@ -715,11 +710,6 @@ metafile = true
 [[files]]
 file = "mods/searchables.pw.toml"
 hash = "ce9ddada6ffd55a512149cc474c6a453281a997a5fdf1b7b4a2cc73f875e704a"
-metafile = true
-
-[[files]]
-file = "mods/servercore.pw.toml"
-hash = "33454564d216f62d011ac78fc0aa2a49977ac1161f10f4accb1d33a9934969df"
 metafile = true
 
 [[files]]
