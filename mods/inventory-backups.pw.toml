@@ -1,0 +1,13 @@
+name = "InventoryBackups"
+filename = "inventorybackups-2.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9ef22f8c908cc8a60504493b310e760ff2a4b259"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7197447
+project-id = 836385

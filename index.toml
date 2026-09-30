@@ -523,6 +523,11 @@ hash = "6119f4a28b047a9a1b47d5dd505ad43f407ab400dc94eb5d6d3d5189fea24ed3"
 metafile = true
 
 [[files]]
+file = "mods/inventory-backups.pw.toml"
+hash = "59c8a44ea4f4b9e7d72b1abbead88e4fd8218eb5d8b8b8300f6e4676df13007e"
+metafile = true
+
+[[files]]
 file = "mods/iron-furnaces.pw.toml"
 hash = "cd73757a8c093f490d5c7673ad17f4404622a485234b79dc43efa0e67788d66e"
 metafile = true
