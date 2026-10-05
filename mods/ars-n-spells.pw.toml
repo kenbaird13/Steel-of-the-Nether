@@ -1,13 +1,13 @@
 name = "Ars 'n Spells"
-filename = "ars_n_spells-3.2.4.jar"
+filename = "ars_n_spells-3.3.5.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/NlMT8pQt/versions/VFyvh1bi/ars_n_spells-3.2.4.jar"
+url = "https://cdn.modrinth.com/data/NlMT8pQt/versions/5OeZngO7/ars_n_spells-3.3.5.jar"
 hash-format = "sha512"
-hash = "8526ac3ba72b144c1cfaeee4498fe77b9a3d7b393b00a17ef718fb1465c89e5a3808627565f4a196f6f99fec39ee47148cdca819ea42bfb3b633e4072e210107"
+hash = "21f27911378853800129de4123b406a1b7dff2993a986f3c944761f059becac55509925f77b8f8ce49502dfc6747b397407454c85b9a339f6c003891d13400e2"
 
 [update]
 [update.modrinth]
 mod-id = "NlMT8pQt"
-version = "VFyvh1bi"
+version = "5OeZngO7"
