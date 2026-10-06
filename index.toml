@@ -48,6 +48,11 @@ hash = "06dcdfcc2f6edac2242c8f8bffc559ea1075cfcd5e7357851bcda487639d2fae"
 metafile = true
 
 [[files]]
+file = "mods/apotheosis-modern-ragnarok.pw.toml"
+hash = "a79fb17c1ea4b4a4aabfbd680c951c658d20a3570831976b5fed626d080ae6ea"
+metafile = true
+
+[[files]]
 file = "mods/apotheosis.pw.toml"
 hash = "e154d7fb16dc7eb6ace7b88b3896955bb66f58c2daafe93c7ae3327ee418a509"
 metafile = true
@@ -445,6 +450,11 @@ metafile = true
 [[files]]
 file = "mods/gems-realm.pw.toml"
 hash = "f8eef1c338297f16e3dbcddd92a63d11130dde0b1823a43be276dcdb02f581b0"
+metafile = true
+
+[[files]]
+file = "mods/gunsmith-lib.pw.toml"
+hash = "c9d281b7a64c864bd01c09b03dac48cd41c40c237314dfe0b1002c29e62e141b"
 metafile = true
 
 [[files]]
