@@ -17,6 +17,14 @@ file = "config/ledger-server.properties"
 hash = "2ff7f6896d29d6991361f2891ae5932a9d75734440a48374aa2808741d51a68e"
 
 [[files]]
+file = "config/paxi/datapacks/oritech_apotheosis/data/apotheosis/data_maps/item/loot_category_overrides.json"
+hash = "e334220337e4f324611bf304669c42b2c5226ae85cbc67aeaaf0ca761a6660ad"
+
+[[files]]
+file = "config/paxi/datapacks/oritech_apotheosis/pack.mcmeta"
+hash = "072d9f89a2ae6a0b52c9fdd0bd741e003d302ebc36be4e5192cedddabeb54441"
+
+[[files]]
 file = "config/quark-common.toml"
 hash = "144bc14d6b83ca3ef1321bccb901449f9536996c1589e23f65ff5fcd93cc0a61"
 
@@ -140,6 +148,11 @@ metafile = true
 [[files]]
 file = "mods/big-contraptions.pw.toml"
 hash = "48d4c9305d9b6313cff72078a5e21236694fdb265ed1b2d52b0c48e4486d7aa0"
+metafile = true
+
+[[files]]
+file = "mods/cad-editor.pw.toml"
+hash = "981a5c23d1e5b6b5ddc68f8c69c08f0b8b0fb654e65cab3498b5bae532da4170"
 metafile = true
 
 [[files]]
