@@ -18,11 +18,11 @@ hash = "2ff7f6896d29d6991361f2891ae5932a9d75734440a48374aa2808741d51a68e"
 
 [[files]]
 file = "config/paxi/datapacks/oritech_apotheosis/data/apotheosis/data_maps/item/loot_category_overrides.json"
-hash = "e334220337e4f324611bf304669c42b2c5226ae85cbc67aeaaf0ca761a6660ad"
+hash = "d54ade14a64afbe1f5bd2332e86f365875506c04c4557b9f0c992bf9c9081b36"
 
 [[files]]
 file = "config/paxi/datapacks/oritech_apotheosis/pack.mcmeta"
-hash = "072d9f89a2ae6a0b52c9fdd0bd741e003d302ebc36be4e5192cedddabeb54441"
+hash = "5db9b86717dcd9e4607ee6c0dfa0c539d94e30bc3e055a6ac49113475a2ed045"
 
 [[files]]
 file = "config/quark-common.toml"
