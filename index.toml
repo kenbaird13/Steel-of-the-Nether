@@ -540,6 +540,26 @@ hash = "5fd2bc8e2f99a93cbe1a847e7c4ad29a88bf4023a1dd64625f8226d378be2463"
 metafile = true
 
 [[files]]
+file = "mods/hexal.pw.toml"
+hash = "3e51d9ad93efb292181f8960816a58707ae28841c310b77c28721ac7039931d1"
+metafile = true
+
+[[files]]
+file = "mods/hexcellular.pw.toml"
+hash = "006076b33c06c9283dc8a20971a25308ea8f2e60a5702c40fa96a8eeed1722af"
+metafile = true
+
+[[files]]
+file = "mods/hexdebug.pw.toml"
+hash = "de8f67ab8f2b83867d164fe2d4d6c5ecd373f9167a527f9cd6690408fbec056e"
+metafile = true
+
+[[files]]
+file = "mods/hexstruction.pw.toml"
+hash = "e3ce9e4e1d4dbf12ae095dfe0d35061541c8b0f0932c54b0e400b0285ac35ddf"
+metafile = true
+
+[[files]]
 file = "mods/iceberg.pw.toml"
 hash = "bb7684ff95920141f4d066db99b8137559c0fca71c0f9648fab97b1f33ea1adc"
 metafile = true
@@ -567,6 +587,11 @@ metafile = true
 [[files]]
 file = "mods/interiors.pw.toml"
 hash = "d61a3d04ade7fec6e3035b6f95e11eed61e9ed4e2dc17afbf6e3b5eedd345a0a"
+metafile = true
+
+[[files]]
+file = "mods/ioticblocks.pw.toml"
+hash = "85412f19eccc9b4caa6932122e5e3c7b05aba22686b8cde137a96537d23ff322"
 metafile = true
 
 [[files]]
@@ -652,6 +677,11 @@ metafile = true
 [[files]]
 file = "mods/more-rpg-library.pw.toml"
 hash = "d918a00cbe9f1aebd2c2e880486d10b084aed0a3775f10458e4daacd416ab064"
+metafile = true
+
+[[files]]
+file = "mods/moreiotas.pw.toml"
+hash = "275952e00b13644a444c760d57291b09e5ab2d43eeda195ff4a977d0bf7995fc"
 metafile = true
 
 [[files]]
