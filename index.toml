@@ -516,16 +516,6 @@ hash = "dbe35892336a1d3a8ef401d2c9caff61a70138c8a9b21b1bee95a2582f6d1fcc"
 metafile = true
 
 [[files]]
-file = "mods/kilt-forgeconfigapiport-fix.pw.toml"
-hash = "5266293884d377b373018e774ef92535c21ebc62d6539f5be7354658e279a7a0"
-metafile = true
-
-[[files]]
-file = "mods/kilt.pw.toml"
-hash = "0cb92337ef7bb7ef53f6ac79213e9e5300f035f66cf9d8f19af9eb95fbf8185b"
-metafile = true
-
-[[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "ee6335e3a9090f398c83ba93d2d3f023c848e4dd7f08502b07de2d6332127a91"
 metafile = true
