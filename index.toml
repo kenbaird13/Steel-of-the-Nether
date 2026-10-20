@@ -421,11 +421,6 @@ hash = "5fd2bc8e2f99a93cbe1a847e7c4ad29a88bf4023a1dd64625f8226d378be2463"
 metafile = true
 
 [[files]]
-file = "mods/icarus.pw.toml"
-hash = "c904a72021a442c25cfc83d9b0c19cc32a09997c7258b2b5a893951d05d472ed"
-metafile = true
-
-[[files]]
 file = "mods/iceberg.pw.toml"
 hash = "bb7684ff95920141f4d066db99b8137559c0fca71c0f9648fab97b1f33ea1adc"
 metafile = true
