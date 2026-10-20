@@ -1,6 +1,6 @@
 filename = 'codxlib-1.6.1-fabric+1.20.1.jar'
 name = 'CodxLib'
-side = 'server'
+side = 'both'
 
 [download]
 hash = '3b647259f5d5b713bfb31044030916a7aea7430ca528f6c061c56be44fcd4c0f402ad7bf73eda3d7e9dea75b0643d92f7bedc2ec15238e936811be2f204228f7'

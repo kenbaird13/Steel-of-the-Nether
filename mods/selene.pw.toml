@@ -1,6 +1,6 @@
 filename = 'moonlight-1.20-2.16.37-fabric.jar'
 name = 'Moonlight Lib'
-side = 'server'
+side = 'both'
 
 [download]
 hash = 'ac9fda6bbcc6b38d2c1c55db691f4016c7747796'

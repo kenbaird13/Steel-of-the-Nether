@@ -1,6 +1,6 @@
 filename = 'FunctionMacroBackport_1.20.1-0.1.0.jar'
 name = 'Function Macro Backport'
-side = 'server'
+side = 'both'
 
 [download]
 hash = 'd18ea5f02a681493238226b5f0d04a3ec5967badf6e84bfb7dfaf59f6d37f407c72b32ea53f5767e1579ec65e3d4cf2a75e51ddf8e58b7c48753c11785640c8e'

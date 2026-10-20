@@ -1,6 +1,6 @@
 filename = 'structure_pool_api-fabric-1.2.1+1.20.1.jar'
 name = 'Structure Pool API'
-side = 'server'
+side = 'both'
 
 [download]
 hash = '8279b483b247c301118f43f3b2cb26c5195c8b930ca1ba3468c0a8c9c55ab4fabd76de22e154c2ddf07148adf487af214b86c06ea9105bc6f3adf18d14986dd2'

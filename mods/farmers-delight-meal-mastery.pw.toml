@@ -1,6 +1,6 @@
 filename = 'mealmastery-fabric-1.20.1-1.0.3.jar'
 name = "Farmer's Delight: Meal Mastery"
-side = 'server'
+side = 'both'
 
 [download]
 hash = '098e159ca596ca5ba3e05ca811922189804501a5'
