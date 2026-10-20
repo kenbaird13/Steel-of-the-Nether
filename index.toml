@@ -940,6 +940,11 @@ hash = "c817f31ee35caf96addb069f554bd8b40faefc9b2facfe206aa5f90b3a8a8b92"
 metafile = true
 
 [[files]]
+file = "mods/yigd.pw.toml"
+hash = "fc1d7a1ee1bb2d4906b2686d105c82b67297e8a8376bd3882fea0fdb7e6499eb"
+metafile = true
+
+[[files]]
 file = "mods/yungs-api.pw.toml"
 hash = "6e033530ff43eae4eb4547eabc3df06975834658a0631fae2dac725f3f3e480c"
 metafile = true
