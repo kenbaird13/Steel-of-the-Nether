@@ -67,7 +67,7 @@ metafile = true
 
 [[files]]
 file = "mods/awesome-dungeon-edition-ocean-fabric.pw.toml"
-hash = "4cbd8f4698089d95fb82e155f9dc68fc2e8878d7bad2de018b45d3eefd2cd632"
+hash = "7f8ece00acc7d8808db0003fde90a6b3ee346c3c2592a9bde1dbfda557cbc54a"
 metafile = true
 
 [[files]]
@@ -87,7 +87,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-end-cities-better-end.pw.toml"
-hash = "5ebbabc62f7313620f815bc9f2cf1ebc81bcf8cf0548e949b66c635e81afaa31"
+hash = "82221884584dfbf2056c37dc29cf5ffc91f6656cdaef5c961444d4cc5238145d"
 metafile = true
 
 [[files]]
@@ -102,7 +102,7 @@ metafile = true
 
 [[files]]
 file = "mods/betterendsky.pw.toml"
-hash = "944a2329968331175937739baf434b4236c875476d6012bbba5104c70d88f93b"
+hash = "0e8eed75819cf2b9ad11720702b3cb45bfcad53a1919c2c7ee14dd7d9e1645c9"
 metafile = true
 
 [[files]]
@@ -177,7 +177,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlling.pw.toml"
-hash = "dc4130dfc8ee81c25184b19bdb7f7a1f060a0f19acab54ffb946036b42742dd4"
+hash = "aae528ca3546f6a63089ca478b59e79ae0e30c9d56597382b42f1bc5b2275b7f"
 metafile = true
 
 [[files]]
@@ -277,7 +277,7 @@ metafile = true
 
 [[files]]
 file = "mods/endremastered-fabric.pw.toml"
-hash = "d677c643cb7eb93c6f8b8c90d343c72783dd45b23aff23d863363fccfd17829b"
+hash = "e9747e5bbd55cfc669d5970be26b779a627e89f9977f481ad19fb6b368332dc1"
 metafile = true
 
 [[files]]
@@ -327,7 +327,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight-meal-mastery.pw.toml"
-hash = "6a8d672decd2497f72e9c03c7d7b3d5253bb89be588878e50cceeea8d7e58708"
+hash = "7f2c27b355752e3449ca2464958932c6f30c3109849fb98d553adb65df5cb1af"
 metafile = true
 
 [[files]]
@@ -337,7 +337,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-respite-fabric.pw.toml"
-hash = "59f036a6fe17cc12885e4d210b7b793e917e143e5cab4baaa0b89ec0a8dbe528"
+hash = "54d2bf471b60e315839448bae5d95fd96cd7dfc47d19c592add235584ce5f8ea"
 metafile = true
 
 [[files]]
@@ -502,12 +502,12 @@ metafile = true
 
 [[files]]
 file = "mods/letyourfriendeating.pw.toml"
-hash = "45a2c4b74ac81f6b6a64698064a2e5785aca6bda3c505a28eaa45cdc0ca66448"
+hash = "1be1f80d5a97d7e6d1cf7fee1efafaa7bcb9031bdab20eaf7d68e691b075174a"
 metafile = true
 
 [[files]]
 file = "mods/library-ferret-fabric.pw.toml"
-hash = "bca9fbf53eaac14050cea160a49c6c03316069e25666ced1c281865dd7c3ab6c"
+hash = "5fa9efabb8b900e42fb60afc2abca1f145d2a163253d83af3c3ebd003ff8bc57"
 metafile = true
 
 [[files]]
@@ -527,7 +527,7 @@ metafile = true
 
 [[files]]
 file = "mods/medieval-buildings-end-edition.pw.toml"
-hash = "d661d7653fd900050ed046e6dc98b24d075fb5ee296b31cf5735eb25f14e83d3"
+hash = "0a46895b2085f4747853ae52ae37d1ffb64b7c76aabcb42cc7e3a36ecce290f7"
 metafile = true
 
 [[files]]
@@ -662,17 +662,17 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
-hash = "2531fbc2ca47b88e15cddc5d7e827970a60fa43c5d55e8855b0df997c39e0923"
+hash = "2e6e84c6214a8f8aecdd86c634e48adbac6f8907ee6daa606b3117b6f2c4c31e"
 metafile = true
 
 [[files]]
 file = "mods/roughly-enough-professions-rep.pw.toml"
-hash = "7960219a71f134b17d41495c733ab8e07176e235cfb16bc1aec00094ed5893c8"
+hash = "b19dedce6baa42bc6b7864f96eb247e0ebe5ddb241168baf660e469f6e12bc02"
 metafile = true
 
 [[files]]
 file = "mods/roughly-enough-resources.pw.toml"
-hash = "bf8e54300b929926d43866fbd25f4c6409313926231d94fc5d953d8a558b74da"
+hash = "06b63158b9879df61bd2ce5edf094d0fff1aa51e6b5693b165a91074b95e196c"
 metafile = true
 
 [[files]]
@@ -682,12 +682,12 @@ metafile = true
 
 [[files]]
 file = "mods/searchables.pw.toml"
-hash = "442210401129404d37b4628b6de9c81d0ed5b206ba5d03db2ead8a60ce49cb59"
+hash = "59f3cb8a722dbfa7f7514d4cdf1179cae8d7975ba26ca76a8964515c25b76cc7"
 metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "307d654b9ab7987575386ab68099d62294b553b7ad5f85eee853e35b3653fd39"
+hash = "ed862c1f3a33d990b904327969664155a999f8df62f5ac674f89743d842f4eab"
 metafile = true
 
 [[files]]
@@ -822,7 +822,7 @@ metafile = true
 
 [[files]]
 file = "mods/yungs-better-desert-temples-fabric.pw.toml"
-hash = "4ebd0aca5047261722d9df4fae10823e6ac4a6e5b1ac1da24fd800e687b3ac88"
+hash = "329c81728a3f7b644a980832d5176b6c79df77be93ecb1a3ddbb415e52ee953d"
 metafile = true
 
 [[files]]
@@ -837,7 +837,7 @@ metafile = true
 
 [[files]]
 file = "mods/yungs-better-end-island-fabric.pw.toml"
-hash = "2a632c697789a5bae1af73752f9aa4b63aa5f9bafc14b638eac9a36de8e5e887"
+hash = "7bf950ad24981c0d76192ab6172e698f2d8c5afbe897aef49b8ea54d2d43311d"
 metafile = true
 
 [[files]]
@@ -847,7 +847,7 @@ metafile = true
 
 [[files]]
 file = "mods/yungs-better-jungle-temples-fabric.pw.toml"
-hash = "cf528ffc869400fae63dfde6c62e33561383034390536980b341260608d776d8"
+hash = "79d269b34852a6d74527bcfdeacd18feae1c68b9f8e804140034eff70c441d74"
 metafile = true
 
 [[files]]
@@ -857,7 +857,7 @@ metafile = true
 
 [[files]]
 file = "mods/yungs-better-mineshafts-fabric.pw.toml"
-hash = "b883942b20995ae77dfd420b7d9a69c535bc3960ad38759d7b4a6c1c61c5abc2"
+hash = "ac12646319797c6a73b9cf1c605855c96f9e42e6b99abf0c0548cbaf627a51b0"
 metafile = true
 
 [[files]]
@@ -867,7 +867,7 @@ metafile = true
 
 [[files]]
 file = "mods/yungs-better-nether-fortresses-fabric.pw.toml"
-hash = "456662f3586b1fe3f3cf50b9ca5952c68458976e4e8d2c32c770a4ae741a9fd0"
+hash = "8924661e03536d555e7b50c655431f7b0e2e993483eadbe96b603ec3c4afe082"
 metafile = true
 
 [[files]]
@@ -877,7 +877,7 @@ metafile = true
 
 [[files]]
 file = "mods/yungs-better-ocean-monuments-fabric.pw.toml"
-hash = "6f652d43ae00a6c4ecaf90117d0c6b9288353c0b22ce688877656e307d385773"
+hash = "5acb2fe9bd7be54f84945190997aee6d6e1026e9a7cbba36ffcd3970c261c2a9"
 metafile = true
 
 [[files]]
@@ -892,7 +892,7 @@ metafile = true
 
 [[files]]
 file = "mods/yungs-better-witch-huts-fabric.pw.toml"
-hash = "43a6b7a6e7cab33cfbf1b6c43d5d83c9c816fb792ee0437f395a83386980726e"
+hash = "b08e01263e6b7420d0f938a75d0a02705a28e0773a39e27552ec46c47642214f"
 metafile = true
 
 [[files]]
@@ -902,7 +902,7 @@ metafile = true
 
 [[files]]
 file = "mods/yungs-bridges-fabric.pw.toml"
-hash = "9917e8c13ef847a7e0c96373bc15c44e33af547ff8742d76ef5adb24146233ad"
+hash = "6f83d545f9985d868f080b9368c94efa8b218b50553df4fd623ee9045b66cd24"
 metafile = true
 
 [[files]]
