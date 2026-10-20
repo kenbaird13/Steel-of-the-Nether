@@ -1,6 +1,70 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/bclib/biomes.json"
+hash = "e31ef59faee81b0cff9506c0b4137f6473f68ca469d2319203bc3ca50eed6d13"
+
+[[files]]
+file = "config/bclib/cache.json"
+hash = "7585f8143ab525f6a0f1f024b92eb65840142286eb35d5107c22342f1a4df741"
+
+[[files]]
+file = "config/bclib/client.json"
+hash = "c342e62f25d34bc9fafa67d181a37d2c9f12735703f1c2fb20329f83c82df26e"
+
+[[files]]
+file = "config/bclib/generator.json"
+hash = "218542dbc05094a216da6161849a631c4fd770cf5364395d521e15e00240e0bf"
+
+[[files]]
+file = "config/bclib/main.json"
+hash = "6c374c2361f59dbbace6322200613773ec01d5fb6e8fb70ac5d89463e3631f05"
+
+[[files]]
+file = "config/bclib/server.json"
+hash = "a747a0bb0548ef3b677671e5e60ac931bb2a45c212bfdb9a8b180cddb068ee87"
+
+[[files]]
+file = "config/betterend/blocks.json"
+hash = "471f7b199e86279d6478f56bd06dff81c877f944adc2c0939bdfd4ee204facac"
+
+[[files]]
+file = "config/betterend/client.json"
+hash = "b0c5fe0ddb608e1511f9fb145768bbf5308ffd3a58f54c1fb3734635384b9e01"
+
+[[files]]
+file = "config/betterend/enchantments.json"
+hash = "fe93e79aff2fc28279544d8578bc01206964d94cd404c9845ebe871128196803"
+
+[[files]]
+file = "config/betterend/entities.json"
+hash = "c88c23c520341d800c6403788d500a2c8db1eebf1cb3920f9809b31f00e6558b"
+
+[[files]]
+file = "config/betterend/generator.json"
+hash = "564c1d7ef5b6adaeec9e7024147316c6448fcc4e97dab5391870440d0237c718"
+
+[[files]]
+file = "config/betterend/portals.json"
+hash = "c0900ca41e9721a30bf49f00762f9fb80367908cd668d5c32ab2816e61ff51d7"
+
+[[files]]
+file = "config/betternether/biomes.json"
+hash = "ead1ef3b21faa3512143d0d2600de1dfb77df1a8446c51a38b84a69343c214ed"
+
+[[files]]
+file = "config/betternether/generator.json"
+hash = "787e6999e46c43c90f3ff5f13fb3d061e78949304d7c490ce6053056b2f2e1e0"
+
+[[files]]
+file = "config/betternether/main.json"
+hash = "6d4f1aa22a4c974936e5e6924d644f1755fd995a87092e99e113bdd494371f02"
+
+[[files]]
+file = "config/betternether/mobs.json"
+hash = "6ce59f333ede885d055ee3fb3164f38cb609843ce279d00b4bba0d2a73347a5a"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "aae0776b91b53364219212acb60b9bd039efbb490515dc9a6215c33a7d2882e9"
 metafile = true
@@ -538,11 +602,6 @@ metafile = true
 [[files]]
 file = "mods/lets-do-vinery.pw.toml"
 hash = "5d6fe4aaa0a1de516d91582524ec7bb9e2fbdca520dad964b0322da6cd344a99"
-metafile = true
-
-[[files]]
-file = "mods/letyourfriendeating.pw.toml"
-hash = "1be1f80d5a97d7e6d1cf7fee1efafaa7bcb9031bdab20eaf7d68e691b075174a"
 metafile = true
 
 [[files]]
