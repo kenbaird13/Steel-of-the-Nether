@@ -1,0 +1,33 @@
+filename = 'elemental_wizards_rpg-fabric-3.1.1+1.20.1.jar'
+name = 'Elemental Wizards (RPG Series Plus)'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '3.1.1+1.20.1-fabric'
+
+[download]
+hash = '1a4c9a0100b497c43db54ddf5ccabbbc7db1c92dc4e529a48af38122549c16cd6384a15a49223b5d1f2ed778beadd444036d96fa4f508b26e0225a8accc482f7'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/PeZ4h4i0/versions/4co1Q1sM/elemental_wizards_rpg-fabric-3.1.1%2B1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'PeZ4h4i0'
+version = '4co1Q1sM'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'vukREL4F'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'NkGaQMDA'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'XvoWJaA2'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'Wkc3lwHo'
+type = 'REQUIRED'

@@ -1,0 +1,25 @@
+filename = 'bclib-3.0.16.jar'
+name = 'BCLib'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '3.0.16'
+
+[download]
+hash = '7e657348f37fd51877b132ae57c5cb4bbe36d601263b2456369ec79ac1b978b8dd3c250aad3e978e2b71165dcf0b8b2eacd4217747aaa2e910b34fd4ff67f469'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/BgNRHReB/versions/SF3ws3Yh/bclib-3.0.16.jar'
+
+[update.modrinth]
+mod-id = 'BgNRHReB'
+version = 'SF3ws3Yh'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'P7dR8mSH'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'mOgUt4GM'
+type = 'OPTIONAL'

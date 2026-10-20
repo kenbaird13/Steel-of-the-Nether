@@ -1,13 +1,25 @@
+filename = 'farmers-cutting-betternether-1.20.1-1.0.jar'
 name = "Farmer's Cutting: BetterNether"
-filename = "farmers-cutting-betternether-1.21.1-1.0-neoforge.jar"
-side = "both"
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '1.20.1-1.0+mod'
 
 [download]
-url = "https://cdn.modrinth.com/data/RFzQi5Io/versions/9k5240yQ/farmers-cutting-betternether-1.21.1-1.0-neoforge.jar"
-hash-format = "sha512"
-hash = "5e9bde497930b9c5ce945959f8800c62e0450d369dd79802aa0eb0ceb6d8b41c0bf68b18e02c604980a5e38ada39ea6f85019d4f36fe61ae3b2b0ddaf86d6820"
+hash = '1a7b10f4021646e93a5044a359687b0809c9b6a365cc77f5871b74b8ff7ff7319d660b38025b6983ea2182b62b2540a62de48471a3cc810a457dc2f2cd80ab10'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/RFzQi5Io/versions/XMZntiuL/farmers-cutting-betternether-1.20.1-1.0.jar'
 
-[update]
 [update.modrinth]
-mod-id = "RFzQi5Io"
-version = "9k5240yQ"
+mod-id = 'RFzQi5Io'
+version = 'XMZntiuL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '7vxePowz'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'MpzVLzy5'
+type = 'REQUIRED'

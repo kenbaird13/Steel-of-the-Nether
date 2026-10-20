@@ -1,0 +1,33 @@
+filename = 'medievalorigins-fabric-1.20.1-6.7.9.jar'
+name = 'Medieval Origins Revival'
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Fabric-6.7.9+1.20.1'
+
+[download]
+hash = 'd70ace6ef7a6062035e6588a7215a366afabebdce83a3fd21aa2a5e35aeb4713c5d443fa9424b578ed57d7830d5298095ad556ea3f28439c6ffca54862aed7b6'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/3FJ8AhW0/versions/efRW2ds8/medievalorigins-fabric-1.20.1-6.7.9.jar'
+
+[update.modrinth]
+mod-id = '3FJ8AhW0'
+version = 'efRW2ds8'
+
+[[x-prismlauncher-dependencies]]
+addonId = 't5W7Jfwy'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '8ooWzSQP'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '3BeIrqZR'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'Dw7M6XKW'
+type = 'REQUIRED'

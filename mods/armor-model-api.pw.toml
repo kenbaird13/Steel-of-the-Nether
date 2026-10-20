@@ -1,0 +1,21 @@
+filename = 'armor_model_api-fabric-1.0.0+1.20.1.jar'
+name = 'Armor Model API'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.0.0+1.20.1-fabric'
+
+[download]
+hash = '302a05b9ad56653aac6727ff8796be0f1633bd4d335d170efe32b8712576a81b9754ee4ddf20b5c701d1b1e0335615af68041466ec8da173e13f49332cd2b973'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/onz2NN2n/versions/1yvucvYz/armor_model_api-fabric-1.0.0%2B1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'onz2NN2n'
+version = '1yvucvYz'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'P7dR8mSH'
+type = 'REQUIRED'

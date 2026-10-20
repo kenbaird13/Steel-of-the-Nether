@@ -1,4 +1,4 @@
-name = "Steel of the Nether"
+name = "Gold of the End"
 author = "codeNredstone"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
@@ -6,11 +6,8 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "763594d3e9cb26e7217c3daff5e564c69e2e36b1246ff54b249615a28ad47657"
+hash = "54df97a3b84ab61d476ff78ef6f5d7f6f4d7c038bfc6eb7b0c1edd30552ade40"
 
 [versions]
-minecraft = "1.21.1"
-neoforge = "21.1.251"
-
-[options]
-acceptable-game-versions = ["1.21"]
+fabric = "0.20.1"
+minecraft = "1.20.1"

@@ -1,0 +1,21 @@
+filename = 'RoughlyEnoughProfessions-fabric-1.20.1-2.0.2.jar'
+name = 'Roughly Enough Professions (REP)'
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'RoughlyEnoughProfessions-fabric-1.20.1-2.0.2.jar'
+
+[download]
+hash = 'd314e37daf10feaba39719700255a0cc4292abf8'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4806285
+project-id = 597988
+
+[[x-prismlauncher-dependencies]]
+addonId = '310111'
+type = 'REQUIRED'

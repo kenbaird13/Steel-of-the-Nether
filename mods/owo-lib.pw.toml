@@ -1,13 +1,21 @@
-name = "oωo (owo-lib)"
-filename = "owo-lib-neoforge-0.12.15.5-beta.1+1.21.jar"
-side = "both"
+filename = 'owo-lib-0.11.2+1.20.jar'
+name = 'oωo (owo-lib)'
+side = 'both'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '0.11.2+1.20'
 
 [download]
-url = "https://cdn.modrinth.com/data/ccKDOlHs/versions/NMCHU6DZ/owo-lib-neoforge-0.12.15.5-beta.1%2B1.21.jar"
-hash-format = "sha512"
-hash = "4de5c5d52139244b8c5260d641087664d992624b822599a32e03c08eb133be854a2f413667dbca1e55772445b04a70210c17b3bc13e3c88e425e7d928104b9fa"
+hash = '807e4a3daf493e92c5ff0d5657efbba2a4e0cd2a9b753f2d6f153422629415f189345842a6dd258c87d4c02ebf38950a517bcd8a7ed929af6ed6485ae46cf77e'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/ccKDOlHs/versions/zyOBB7J4/owo-lib-0.11.2%2B1.20.jar'
 
-[update]
 [update.modrinth]
-mod-id = "ccKDOlHs"
-version = "NMCHU6DZ"
+mod-id = 'ccKDOlHs'
+version = 'zyOBB7J4'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'P7dR8mSH'
+type = 'REQUIRED'
