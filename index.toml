@@ -151,6 +151,11 @@ hash = "8686b7a3c53019b4969de5d661115ec7c10a36ca89f1065e5bd1061b6f413960"
 metafile = true
 
 [[files]]
+file = "mods/chunky.pw.toml"
+hash = "b1581bbfae9d16690f4022536da6567f000130c4ea5e04d92177c1bc61fea709"
+metafile = true
+
+[[files]]
 file = "mods/cicada.pw.toml"
 hash = "93f9d144352d117d9fa31c5f24297207851f797467fffc0c6cfa1c75c781c3da"
 metafile = true
@@ -243,6 +248,11 @@ metafile = true
 [[files]]
 file = "mods/createaddition.pw.toml"
 hash = "21eef38be4251837f19cf27d52f8447fa6bf7f6e31b6e4df00e33342f46f0133"
+metafile = true
+
+[[files]]
+file = "mods/dcintegration.pw.toml"
+hash = "a3f54d4b294683dbfe027dc01f9172bd828769afb435bb965f167e205640e7c3"
 metafile = true
 
 [[files]]
