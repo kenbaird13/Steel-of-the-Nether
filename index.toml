@@ -610,6 +610,11 @@ hash = "dbe35892336a1d3a8ef401d2c9caff61a70138c8a9b21b1bee95a2582f6d1fcc"
 metafile = true
 
 [[files]]
+file = "mods/krypton.pw.toml"
+hash = "9063bac3fdf585a43d318e3f9773475a28ecb8fe80bc7689cc480851eef97420"
+metafile = true
+
+[[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "ee6335e3a9090f398c83ba93d2d3f023c848e4dd7f08502b07de2d6332127a91"
 metafile = true
@@ -877,6 +882,11 @@ metafile = true
 [[files]]
 file = "mods/things.pw.toml"
 hash = "5935c7e5584d49f94dee3f9bc6b0b4a300c4e9d966faae49262549ea6cf42fc7"
+metafile = true
+
+[[files]]
+file = "mods/timeoutout.pw.toml"
+hash = "6639d919684029509a1e230cf4492b53776bb1a24427fd3cb9649306bbe9ab9f"
 metafile = true
 
 [[files]]
