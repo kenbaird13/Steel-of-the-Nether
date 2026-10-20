@@ -257,7 +257,7 @@ metafile = true
 
 [[files]]
 file = "mods/deeperdarker.pw.toml"
-hash = "ed7f73ec0aedc55d64e1705b3c2e3d83db761e6c5c909ab5feb59b8b1845e4e8"
+hash = "f2a482119b191e3ece90ea7c52159c40bd03a3f7ec253f586e3321b1ef19939e"
 metafile = true
 
 [[files]]
@@ -929,11 +929,3 @@ metafile = true
 file = "mods/yungs-bridges.pw.toml"
 hash = "f7b13fac6cf607b469647bccf2f48abb2610639c24cac46fc12cfb4538590e14"
 metafile = true
-
-[[files]]
-file = "tmp/latest(1).log"
-hash = "b81a9b97fb329c6cb1a509ba6e1a822a60a96da0636a34717d081e9dd880ffc7"
-
-[[files]]
-file = "tmp/latest.log"
-hash = "e05d5c86b7fff933ea480836b4c65fc05cb3173385f2428dcf6b29c5287cefac"
