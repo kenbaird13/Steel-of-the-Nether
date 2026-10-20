@@ -1,10 +1,6 @@
 filename = 'extraorigins-1.20-8.jar'
 name = 'Extra Origins'
 side = 'both'
-x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '1.20-8'
 
 [download]
 hash = '503ab9d6b4bb87ddec569fe9c67fc697761597e6dc583559d21af4ef130ec79350db698f7b7fffd65f550d618e6f406cf0479f5d10d3aef9a4c43c345d914535'
@@ -15,15 +11,3 @@ url = 'https://cdn.modrinth.com/data/XWEESDPe/versions/XCpFkTtu/extraorigins-1.2
 [update.modrinth]
 mod-id = 'XWEESDPe'
 version = 'XCpFkTtu'
-
-[[x-prismlauncher-dependencies]]
-addonId = 't5W7Jfwy'
-type = 'REQUIRED'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'P7dR8mSH'
-type = 'REQUIRED'
-
-[[x-prismlauncher-dependencies]]
-addonId = '3BeIrqZR'
-type = 'REQUIRED'

@@ -1,10 +1,6 @@
 filename = 'farmers-cutting-betternether-1.20.1-1.0.jar'
 name = "Farmer's Cutting: BetterNether"
 side = 'both'
-x-prismlauncher-loaders = [ 'fabric' ]
-x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
-x-prismlauncher-release-type = 'beta'
-x-prismlauncher-version-number = '1.20.1-1.0+mod'
 
 [download]
 hash = '1a7b10f4021646e93a5044a359687b0809c9b6a365cc77f5871b74b8ff7ff7319d660b38025b6983ea2182b62b2540a62de48471a3cc810a457dc2f2cd80ab10'
@@ -15,11 +11,3 @@ url = 'https://cdn.modrinth.com/data/RFzQi5Io/versions/XMZntiuL/farmers-cutting-
 [update.modrinth]
 mod-id = 'RFzQi5Io'
 version = 'XMZntiuL'
-
-[[x-prismlauncher-dependencies]]
-addonId = '7vxePowz'
-type = 'REQUIRED'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'MpzVLzy5'
-type = 'REQUIRED'

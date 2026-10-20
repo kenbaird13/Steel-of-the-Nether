@@ -1,10 +1,6 @@
 filename = 'create-enchantment-industry-fabric-1.20.1-2.5.2-g.jar'
 name = 'Create: Enchantment Industry'
 side = 'both'
-x-prismlauncher-loaders = [ 'fabric' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'beta'
-x-prismlauncher-version-number = '2.5.2-g'
 
 [download]
 hash = 'a1dd05201a7124445ba18a85ac72176de885c89a75227cf172b411fc821d7705de076d35c12bf8fbd48ca82aa77cff384f4f8158988d43a1de1495b22bdc660b'
@@ -15,23 +11,3 @@ url = 'https://cdn.modrinth.com/data/JWGBpFUP/versions/Or9rfT7c/create-enchantme
 [update.modrinth]
 mod-id = 'JWGBpFUP'
 version = 'Or9rfT7c'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'TLZe11Uj'
-type = 'OPTIONAL'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'P7dR8mSH'
-type = 'REQUIRED'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'dzb1a5WV'
-type = 'REQUIRED'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'Xbc0uyRg'
-type = 'REQUIRED'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'u6dRKJwZ'
-type = 'OPTIONAL'

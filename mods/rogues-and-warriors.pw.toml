@@ -1,10 +1,6 @@
 filename = 'rogues-fabric-3.1.3+1.20.1.jar'
 name = 'Rogues & Warriors (RPG Series)'
 side = 'both'
-x-prismlauncher-loaders = [ 'fabric' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '3.1.3+1.20.1-fabric'
 
 [download]
 hash = 'dad09e05a6d8ed3de25f07deb6449511d52a0be18fc575982140fa903a64bdbd6bbc1c427d005d816942d2edad3b16549e45a27aeea81fd084a29597b5f5ff4f'
@@ -15,19 +11,3 @@ url = 'https://cdn.modrinth.com/data/3MKqoGuP/versions/7gbnfP1K/rogues-fabric-3.
 [update.modrinth]
 mod-id = '3MKqoGuP'
 version = '7gbnfP1K'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'LrYZi08Q'
-type = 'REQUIRED'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'XvoWJaA2'
-type = 'REQUIRED'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'P7dR8mSH'
-type = 'REQUIRED'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'onz2NN2n'
-type = 'REQUIRED'

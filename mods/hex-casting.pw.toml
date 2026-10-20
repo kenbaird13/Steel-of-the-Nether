@@ -1,10 +1,6 @@
 filename = 'hexcasting-fabric-1.20.1-0.11.4.jar'
 name = 'Hex Casting'
 side = 'both'
-x-prismlauncher-loaders = [ 'fabric' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'beta'
-x-prismlauncher-version-number = '0.11.4'
 
 [download]
 hash = '5cdc241966cdd17f5ffc16b8dc1903f5cbe9676d5132989da7f9a391b0f1a98d087b81fe66bc2066efea5feb2ef195b12519ae99e08c70b05f96ef5a53ec0907'
@@ -15,38 +11,3 @@ url = 'https://cdn.modrinth.com/data/nTW3yKrm/versions/d1pTywTc/hexcasting-fabri
 [update.modrinth]
 mod-id = 'nTW3yKrm'
 version = 'd1pTywTc'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'fin1PX4m'
-type = 'REQUIRED'
-version = 'n7VmkBLu'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'P7dR8mSH'
-type = 'REQUIRED'
-version = 'FLGCXPFi'
-
-[[x-prismlauncher-dependencies]]
-addonId = '9s6osm5g'
-type = 'REQUIRED'
-version = 's7VTKfLA'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'nU0bVIaL'
-type = 'REQUIRED'
-version = 'PKvFvHeb'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'TZo2wHFe'
-type = 'REQUIRED'
-version = 'dabyDTwJ'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'Ha28R6CL'
-type = 'REQUIRED'
-version = 'LcgnDDmT'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'K01OU20C'
-type = 'REQUIRED'
-version = 'HykM2Qyv'

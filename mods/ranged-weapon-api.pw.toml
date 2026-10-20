@@ -1,11 +1,6 @@
 filename = 'ranged_weapon_api-fabric-2.3.4+1.20.1.jar'
 name = 'Ranged Weapon API'
 side = 'both'
-x-prismlauncher-dependencies = []
-x-prismlauncher-loaders = [ 'fabric' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '2.3.4+1.20.1-fabric'
 
 [download]
 hash = '8499d17cd31dc86abf44967b369d064bfd70148337d0db29ba513a3f884630ddd90e208aa79b59c4c5d4717ffe31fc35b0c8e3ba87799f06ecc8ac6f213d29f2'

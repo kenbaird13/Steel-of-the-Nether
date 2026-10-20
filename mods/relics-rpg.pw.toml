@@ -1,10 +1,6 @@
 filename = 'relics-fabric-1.4.0+1.20.1.jar'
 name = 'Relics (RPG Series)'
 side = 'both'
-x-prismlauncher-loaders = [ 'fabric' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '1.4.0+1.20.1-fabric'
 
 [download]
 hash = '5735c9e93391c47afb063e45b1c780a35289557f04d1ba140e4e6ad4f619d2a786771651a1e9561efe05cd58787f2ef2186eb86119484f687eef501c7856df62'
@@ -15,11 +11,3 @@ url = 'https://cdn.modrinth.com/data/BDQucwF0/versions/9GdjgaQd/relics-fabric-1.
 [update.modrinth]
 mod-id = 'BDQucwF0'
 version = '9GdjgaQd'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'XvoWJaA2'
-type = 'REQUIRED'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'P7dR8mSH'
-type = 'REQUIRED'

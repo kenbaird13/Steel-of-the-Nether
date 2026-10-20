@@ -1,10 +1,6 @@
 filename = 'create-dragons-plus-fabric-1.20.1-1.11.8.jar'
 name = 'Create: Dragons Plus'
 side = 'both'
-x-prismlauncher-loaders = [ 'fabric' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'beta'
-x-prismlauncher-version-number = '1.11.8'
 
 [download]
 hash = 'df0b71ad1bfab69e0aaccb146ab5b7e8d8c18d7411f0f984cffcf9b743be56fbeacdfa431e0f91df6a4e1b53006676cf8e07fd74f7a7c9e11db6e139fc819c50'
@@ -15,23 +11,3 @@ url = 'https://cdn.modrinth.com/data/dzb1a5WV/versions/3OLCjra2/create-dragons-p
 [update.modrinth]
 mod-id = 'dzb1a5WV'
 version = '3OLCjra2'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'dl88rsIq'
-type = 'OPTIONAL'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'JI9mEkvq'
-type = 'OPTIONAL'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'P7dR8mSH'
-type = 'REQUIRED'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'Xbc0uyRg'
-type = 'REQUIRED'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'u6dRKJwZ'
-type = 'OPTIONAL'

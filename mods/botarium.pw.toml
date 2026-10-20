@@ -1,10 +1,6 @@
 filename = 'botarium-fabric-1.20.1-2.3.4.jar'
 name = 'Botarium'
 side = 'both'
-x-prismlauncher-loaders = [ 'fabric' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '2.3.4'
 
 [download]
 hash = '03589a8d05c17dbb4271c212d0eb00c53d9d5c0705f63c7816ff9e099245db71f94e7c544e323beaeac28d30bd3807eeccb1352792cb6d778ff6ecf68f4635c7'
@@ -15,7 +11,3 @@ url = 'https://cdn.modrinth.com/data/2u6LRnMa/versions/f3ATcSfq/botarium-fabric-
 [update.modrinth]
 mod-id = '2u6LRnMa'
 version = 'f3ATcSfq'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'P7dR8mSH'
-type = 'REQUIRED'

@@ -1,10 +1,6 @@
 filename = 'sliceanddice-fabric-3.6.0.jar'
 name = 'Create Slice & Dice'
 side = 'both'
-x-prismlauncher-loaders = [ 'fabric' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'beta'
-x-prismlauncher-version-number = '3.6.0'
 
 [download]
 hash = 'a30f90308aec5f6820eaee577e872c220c8372d10defc276478704c86a45712a60c613861c7afb288735316ced658261a873ac41c3e644557c405bd8c78c994c'
@@ -15,15 +11,3 @@ url = 'https://cdn.modrinth.com/data/GmjmRQ0A/versions/YT0NEd3Q/sliceanddice-fab
 [update.modrinth]
 mod-id = 'GmjmRQ0A'
 version = 'YT0NEd3Q'
-
-[[x-prismlauncher-dependencies]]
-addonId = '7vxePowz'
-type = 'OPTIONAL'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'Xbc0uyRg'
-type = 'REQUIRED'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'Ha28R6CL'
-type = 'REQUIRED'

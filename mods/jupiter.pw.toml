@@ -1,10 +1,6 @@
 filename = 'jupiter-2.3.7-1.20.1-fabric.jar'
 name = 'Jupiter'
 side = 'both'
-x-prismlauncher-loaders = [ 'fabric' ]
-x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '2.3.7-1.20.1-fabric'
 
 [download]
 hash = '9c0fb85b538ba9c77df93dbb1f93a9d0847c3ccbf47ee38bbd79a4cdd5fae45680a0279d0b7f78d9a9b3ac0e9b3dd4e094ffc9fe3a8e006039e658ec089b1086'
@@ -15,15 +11,3 @@ url = 'https://cdn.modrinth.com/data/XbiLGMMU/versions/1co6rVbw/jupiter-2.3.7-1.
 [update.modrinth]
 mod-id = 'XbiLGMMU'
 version = '1co6rVbw'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'P7dR8mSH'
-type = 'REQUIRED'
-
-[[x-prismlauncher-dependencies]]
-addonId = '9s6osm5g'
-type = 'OPTIONAL'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'ohNO6lps'
-type = 'OPTIONAL'

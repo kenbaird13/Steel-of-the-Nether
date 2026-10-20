@@ -1,11 +1,6 @@
 filename = 'libraryferret-fabric-1.20.1-4.0.0.jar'
 name = 'Library Ferret - Fabric'
-side = ''
-x-prismlauncher-dependencies = []
-x-prismlauncher-loaders = [ 'fabric' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = 'Library ferret 4.0.0 - Fabric 1.20.1'
+side = 'both'
 
 [download]
 hash = 'ec87a635904ac0d52e619fa004e93c406cc0d671'

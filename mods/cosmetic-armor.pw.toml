@@ -1,10 +1,6 @@
 filename = 'CosmeticArmor-1.20-1.6.0.jar'
 name = 'Cosmetic Armor'
 side = 'both'
-x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
-x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '1.6.0'
 
 [download]
 hash = '426792cb538e73962374f638cee3182fa1c3e28acbdc5a61b534ee70149ffc955db652c820caf4fc4a27acd980f522e419f5f580c55683d985723a314caf2c96'
@@ -15,13 +11,3 @@ url = 'https://cdn.modrinth.com/data/JrIYhb1P/versions/wPdj2uLD/CosmeticArmor-1.
 [update.modrinth]
 mod-id = 'JrIYhb1P'
 version = 'wPdj2uLD'
-
-[[x-prismlauncher-dependencies]]
-addonId = '5aaWibi9'
-type = 'REQUIRED'
-version = 'e563ycts'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'P7dR8mSH'
-type = 'REQUIRED'
-version = 'XheZ9iGK'

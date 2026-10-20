@@ -1,11 +1,6 @@
 filename = 'respite-creators-1.3.0.jar'
 name = 'Respite Creators [Fabric]'
 side = 'both'
-x-prismlauncher-dependencies = []
-x-prismlauncher-loaders = [ 'fabric' ]
-x-prismlauncher-mc-versions = [ '1.20.1', '1.20.2', '1.20.3', '1.20.4', '1.20.5', '1.20.6' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '1.3.0'
 
 [download]
 hash = 'c5c07d726eef7c437bd0b6425690e45a3ce76ce501e838ca2ce23a17a0d8d14a4e741a015d9207cf4f2f406b1434a16ff896258784da793fa7c486f387ba0fa6'

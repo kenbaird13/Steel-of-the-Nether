@@ -1,10 +1,6 @@
 filename = 'kilt-forgeconfigapiport-fix-1.0.0.jar'
 name = 'Kilt-ForgeConfigAPIPort-Fix'
 side = 'both'
-x-prismlauncher-loaders = [ 'fabric' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '1.0.0'
 
 [download]
 hash = 'dab234541fb172270b9ea3931b7e6e8aecffb6501b99f2bd71a51d0d39ac28a5562942b292b73df3fe6bd726b8ac3e0f62d0d7b3f8ee0f291ed52cf0cc42482d'
@@ -15,11 +11,3 @@ url = 'https://cdn.modrinth.com/data/vgTyEZqm/versions/KFiZDY26/kilt-forgeconfig
 [update.modrinth]
 mod-id = 'vgTyEZqm'
 version = 'KFiZDY26'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'ohNO6lps'
-type = 'REQUIRED'
-
-[[x-prismlauncher-dependencies]]
-addonId = 't87XZEqv'
-type = 'REQUIRED'

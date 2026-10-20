@@ -1,10 +1,6 @@
 filename = 'better-nether-9.0.11.jar'
 name = 'BetterNether'
 side = 'both'
-x-prismlauncher-loaders = [ 'fabric' ]
-x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '9.0.11'
 
 [download]
 hash = 'c30112f99b1ea6f75cc2f2d0f09caaaafeae7856a2f125817e5985a17d7ffb739b44befcb8d2ebf4aa0e7c7a8f9c779506fb68bbda95d5b85e94d88e0a799688'
@@ -15,23 +11,3 @@ url = 'https://cdn.modrinth.com/data/MpzVLzy5/versions/GybmolmI/better-nether-9.
 [update.modrinth]
 mod-id = 'MpzVLzy5'
 version = 'GybmolmI'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'nfn13YXA'
-type = 'OPTIONAL'
-
-[[x-prismlauncher-dependencies]]
-addonId = '6AQIaxuO'
-type = 'OPTIONAL'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'P7dR8mSH'
-type = 'REQUIRED'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'BgNRHReB'
-type = 'REQUIRED'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'fRiHVvU7'
-type = 'OPTIONAL'

@@ -1,11 +1,6 @@
 filename = 'uranus-2.2.6-1.20.1-fabric.jar'
 name = 'Uranus'
 side = 'both'
-x-prismlauncher-dependencies = []
-x-prismlauncher-loaders = [ 'fabric' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '2.2.6'
 
 [download]
 hash = '31e5bc5f5ae9134ec567446ca795af4aca299b3f875446c9c15311f3443b0d3d2bfaea51b7d3cae5473fbc4f3f15649ef3be18e29bf54541a8e695225ced9e10'

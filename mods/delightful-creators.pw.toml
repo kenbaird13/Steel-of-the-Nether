@@ -1,11 +1,6 @@
 filename = 'delightful-creators-1.6-1.20.x.jar'
 name = 'Delightful Creators'
-side = ''
-x-prismlauncher-dependencies = []
-x-prismlauncher-loaders = [ 'fabric' ]
-x-prismlauncher-mc-versions = [ '1.20.1', '1.20.2', '1.20.3', '1.20.4', '1.20.5', '1.20.6' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '1.6-1.20.x'
+side = 'both'
 
 [download]
 hash = '1cc3384274893aac62be02e360b95a650b15fad823a5f045772d1e4c91ee4b279e099e35ae6764cff611361b0a50ed035802732eecbf6d667e9ee16235121cd4'

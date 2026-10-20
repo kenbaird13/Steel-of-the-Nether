@@ -1,10 +1,6 @@
 filename = 'create-structures-0.1.1-1.20.1-FABRIC.jar'
 name = 'Create: Structures'
 side = 'both'
-x-prismlauncher-loaders = [ 'fabric' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'beta'
-x-prismlauncher-version-number = '0.1.1+mod'
 
 [download]
 hash = '56d693c501b655d52dc21673efe003a99feedfa44cf89afed82fae97c1d6be8fd2c8a9d0c8f126ecbe37116bf2a4631b8bb725bdc870a3382e4791c49cce04b6'
@@ -15,8 +11,3 @@ url = 'https://cdn.modrinth.com/data/IAnP4np7/versions/nqsTHZwx/create-structure
 [update.modrinth]
 mod-id = 'IAnP4np7'
 version = 'nqsTHZwx'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'Xbc0uyRg'
-type = 'REQUIRED'
-version = '7Ub71nPb'
