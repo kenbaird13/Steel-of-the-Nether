@@ -596,11 +596,6 @@ hash = "d918a00cbe9f1aebd2c2e880486d10b084aed0a3775f10458e4daacd416ab064"
 metafile = true
 
 [[files]]
-file = "mods/mythic-origins.pw.toml"
-hash = "31a01aa1f3e9bf96c5632931f68a7ab920af1c2facf5868f01550cc26d451ef4"
-metafile = true
-
-[[files]]
 file = "mods/mythicmetals.pw.toml"
 hash = "26a4b9d416650e90610405e576e9b8344ae84d173c6e58cd1c470bcaaf46373b"
 metafile = true
