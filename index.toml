@@ -581,6 +581,11 @@ hash = "aa7289d1bf1fac6df1d674dc933befe21ed6297152ea72dcb946cd2eb43d0d60"
 metafile = true
 
 [[files]]
+file = "mods/modmenu.pw.toml"
+hash = "d7145fd1bd8b4bb6a3b84652a96a68870fb3ab32230f27520bb9362fd17ec39f"
+metafile = true
+
+[[files]]
 file = "mods/more-mob-variants.pw.toml"
 hash = "2caac86fc614dfbcb195f18f0b300a4a65a6500860903bdd91a40a9ddce337b0"
 metafile = true
@@ -698,6 +703,11 @@ metafile = true
 [[files]]
 file = "mods/rogues-and-warriors.pw.toml"
 hash = "ca20fc4a07926b5b491605deba75ea39b0a0866b70f37def1f13aee33e0c85de"
+metafile = true
+
+[[files]]
+file = "mods/runes.pw.toml"
+hash = "624adb9b2dd2f9bc32aed940a2d5fca94ef78de2b0af65e0b2fb2fddce6f96c2"
 metafile = true
 
 [[files]]
