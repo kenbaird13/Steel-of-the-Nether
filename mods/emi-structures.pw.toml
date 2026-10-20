@@ -1,0 +1,13 @@
+name = "EMI Structures"
+filename = "emi-structures-0.1.1+1.20.1-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/YFx6D8i4/versions/SjQCjSl9/emi-structures-0.1.1%2B1.20.1-fabric.jar"
+hash-format = "sha512"
+hash = "8a4a3069d12bc24f1fd23b14637061ddada04c38456ffd5aae05b535e1f447f4366c75a156c47027bec9834d375eaf367d0f4569f2cd570560074f6ac95184ed"
+
+[update]
+[update.modrinth]
+mod-id = "YFx6D8i4"
+version = "SjQCjSl9"

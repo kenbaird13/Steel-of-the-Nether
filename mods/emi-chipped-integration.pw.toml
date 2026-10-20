@@ -1,0 +1,13 @@
+name = "EMI Chipped Integration"
+filename = "emi-chipped-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/2RAIsW5P/versions/46yzCmvX/emi-chipped-1.0.0.jar"
+hash-format = "sha512"
+hash = "b2a30fb89173e26c6c9bdb5718b7d5a49592fd037a39c840c3b73d7fd6c127a28d46afaac5bd05ca6684a91fc08b28730dfaf7b65616fe2c0baf8892b978868d"
+
+[update]
+[update.modrinth]
+mod-id = "2RAIsW5P"
+version = "46yzCmvX"

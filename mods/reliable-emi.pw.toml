@@ -1,0 +1,13 @@
+name = "Reliable EMI (REMI)"
+filename = "remi-fabric-1.20.1-4.7.3.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/N9WucjHL/versions/OAd4u4Lp/remi-fabric-1.20.1-4.7.3.jar"
+hash-format = "sha512"
+hash = "066f3ed85fe1eb91e4cdf5567363a9ef039c9e57c87b9f836fb62cd0282c8401e9d79b90b2cd8b9946cdb3d5d6bd3b15d03e527ac7ad7c04c1a906008c48699e"
+
+[update]
+[update.modrinth]
+mod-id = "N9WucjHL"
+version = "OAd4u4Lp"

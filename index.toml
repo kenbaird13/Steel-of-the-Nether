@@ -266,13 +266,48 @@ hash = "6ec0fb2e9c55ee3e93aab237d81841ba051eaf8e29f14fb3a4ba4baccbdfdb23"
 metafile = true
 
 [[files]]
+file = "mods/emi-chipped-integration.pw.toml"
+hash = "6355cdae45faa22b41a789f309ea1cf3874577ac736ff58112d5080507747bbb"
+metafile = true
+
+[[files]]
+file = "mods/emi-loot.pw.toml"
+hash = "484792193eb71f6c5dcfac83cabdcc87972702659c31da8a8dfe819bd00c5826"
+metafile = true
+
+[[files]]
+file = "mods/emi-ores.pw.toml"
+hash = "ee24d491b72287316c389f6e82b5551df00fc4afee02d22599320c818d0ac720"
+metafile = true
+
+[[files]]
+file = "mods/emi-professions-emip.pw.toml"
+hash = "5daf4ee8870b5ef4aed32c68d318f926ac63a66666e43b2cc80894602ebb7d48"
+metafile = true
+
+[[files]]
+file = "mods/emi-structures.pw.toml"
+hash = "d1b942fbd0d269640de8ebc4f1d4e26b8d26219a5bd5124c72a1b5357149905e"
+metafile = true
+
+[[files]]
 file = "mods/emi.pw.toml"
 hash = "63966d5a31c8d1b2f5d23706c55bccd574d4d94ba2527406772b6c6c0963d9db"
 metafile = true
 
 [[files]]
+file = "mods/emienchants.pw.toml"
+hash = "e8c7a4925dcf61da8ab1527a483e4b7573c4067cfed897bd0c5844b3c7e28a52"
+metafile = true
+
+[[files]]
 file = "mods/emiffect.pw.toml"
 hash = "3172de25ac5002626c4ceac7113665696556a66293af10c099c3a132969144e6"
+metafile = true
+
+[[files]]
+file = "mods/emitrades.pw.toml"
+hash = "71d944c917bf1e4f0f6fac8c39f3b1038becaa039cdf3638982f4cdb58ef99b4"
 metafile = true
 
 [[files]]
@@ -303,6 +338,11 @@ metafile = true
 [[files]]
 file = "mods/explorify.pw.toml"
 hash = "741770664c2e6d3cadc668b63096f3ec60cf95e12f7f0108a1c063d5e59e933e"
+metafile = true
+
+[[files]]
+file = "mods/extra-mod-integrations.pw.toml"
+hash = "376321a4e11e86d932670192b6ddebfd7b898c4e47e74a6b08c7c0123a0aa49c"
 metafile = true
 
 [[files]]
@@ -398,6 +438,11 @@ metafile = true
 [[files]]
 file = "mods/fwaystones.pw.toml"
 hash = "af395fed54fe6cd0dacc25a8e95b8a4e2923d6f86a95d9392af7f39d6b6fc6a4"
+metafile = true
+
+[[files]]
+file = "mods/fzzy-config.pw.toml"
+hash = "a2aea7797aef7ccd124a6674f2e755dd1fa63fe33717813c3bd1ba4d1e2dbb34"
 metafile = true
 
 [[files]]
@@ -636,6 +681,11 @@ hash = "b92daa3295e642474fe41d5f7f75bafb5e16e423f597b362ff8edfd58981aceb"
 metafile = true
 
 [[files]]
+file = "mods/reliable-emi.pw.toml"
+hash = "bb29ae9cc366bc6be162bc55f85cf743f13b39db68e9e631a40fd8d9dafd0aa9"
+metafile = true
+
+[[files]]
 file = "mods/relics-rpg.pw.toml"
 hash = "ea1e1034c1b93badf9d6cbe161506d3c3bbb4563e283a23252347859d8f94290"
 metafile = true
@@ -788,6 +838,11 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "547e99b8ee8faf885ec82c128950a824b7c9972ab8b7e9f385adc7bd50b70c32"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "8305bf17272f0c579b0930b751c12089de9fb157dbdb5c080836ce3daad310b5"
 metafile = true
 
 [[files]]
