@@ -616,6 +616,16 @@ hash = "d782235633c544c1bb930c17125ce0cbcc2a345e5c5369d716efe72dc2e1093c"
 metafile = true
 
 [[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "aab48014a56bd4b7a6f9bce36cbb3c07e8d064fa1640194ecc268fd2e2c8601b"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-restrictions.pw.toml"
+hash = "95a3e4926b406df108ae3da7deeda518a39c1ac5b5ad79ff296c576f16734d58"
+metafile = true
+
+[[files]]
 file = "mods/origins-classes.pw.toml"
 hash = "6d10df631d406f57a45af6502f95b67fea5d38b79adfbf9043686fe3689a9027"
 metafile = true
