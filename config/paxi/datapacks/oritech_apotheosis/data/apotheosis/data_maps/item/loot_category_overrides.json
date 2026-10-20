@@ -1,8 +1,0 @@
-{
-  "replace": false,
-  "values": {
-    "oritech:promethium_pickaxe": "apotheosis:breaker",
-    "oritech:hand_drill": "apotheosis:breaker",
-    "oritech:portable_laser": "apotheosis:melee_weapon"
-  }
-}
