@@ -665,6 +665,11 @@ hash = "ba5545894b700aa30c116d1a6725673f8c2ff4671005a45681f2ace4889b716d"
 metafile = true
 
 [[files]]
+file = "mods/merlingsgrace.pw.toml"
+hash = "74f5c86f67819e65c94a86f2dfa64b9e6ce0af6315d35181c7ec4611674ab3da"
+metafile = true
+
+[[files]]
 file = "mods/mmmmmmmmmmmm.pw.toml"
 hash = "aa7289d1bf1fac6df1d674dc933befe21ed6297152ea72dcb946cd2eb43d0d60"
 metafile = true
@@ -687,6 +692,11 @@ metafile = true
 [[files]]
 file = "mods/moreiotas.pw.toml"
 hash = "275952e00b13644a444c760d57291b09e5ab2d43eeda195ff4a977d0bf7995fc"
+metafile = true
+
+[[files]]
+file = "mods/music-disc-maker.pw.toml"
+hash = "f62b52d267b706e6228de9d5c7c926efb11ab7a9890abbc9c97eaeea28377145"
 metafile = true
 
 [[files]]
