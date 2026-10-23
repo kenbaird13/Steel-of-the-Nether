@@ -385,11 +385,6 @@ hash = "af643c82eedbb79dd08a46589706f95cad861eae9b84329cde66782c43316c47"
 metafile = true
 
 [[files]]
-file = "mods/endrem.pw.toml"
-hash = "0568e9b1f6e3a349a3c58412caaf0cb70814a0871c6ee01240dbdc7cc92d84fc"
-metafile = true
-
-[[files]]
 file = "mods/ends-delight.pw.toml"
 hash = "a13574d21b12aa49c99f0dd1bcc7cc52e8ec9afa1e7f2500d988176908f7dfbf"
 metafile = true
