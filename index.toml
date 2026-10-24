@@ -340,11 +340,6 @@ hash = "6ec0fb2e9c55ee3e93aab237d81841ba051eaf8e29f14fb3a4ba4baccbdfdb23"
 metafile = true
 
 [[files]]
-file = "mods/emi-chipped-integration.pw.toml"
-hash = "6355cdae45faa22b41a789f309ea1cf3874577ac736ff58112d5080507747bbb"
-metafile = true
-
-[[files]]
 file = "mods/emi-loot.pw.toml"
 hash = "484792193eb71f6c5dcfac83cabdcc87972702659c31da8a8dfe819bd00c5826"
 metafile = true
