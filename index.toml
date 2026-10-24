@@ -580,6 +580,11 @@ hash = "d61a3d04ade7fec6e3035b6f95e11eed61e9ed4e2dc17afbf6e3b5eedd345a0a"
 metafile = true
 
 [[files]]
+file = "mods/inventory-profiles-next.pw.toml"
+hash = "ce1e5e716166d72f41fc45950db9346934201c3522f333e08de13412d0588141"
+metafile = true
+
+[[files]]
 file = "mods/ioticblocks.pw.toml"
 hash = "85412f19eccc9b4caa6932122e5e3c7b05aba22686b8cde137a96537d23ff322"
 metafile = true
@@ -627,6 +632,11 @@ metafile = true
 [[files]]
 file = "mods/lets-do-vinery.pw.toml"
 hash = "5d6fe4aaa0a1de516d91582524ec7bb9e2fbdca520dad964b0322da6cd344a99"
+metafile = true
+
+[[files]]
+file = "mods/libipn.pw.toml"
+hash = "cc298019c2d3a47a97e72363b942fe408e5ecb7ff476fe08155793f2f1578317"
 metafile = true
 
 [[files]]
